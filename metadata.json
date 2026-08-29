@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Video Generator",
+  "description": "Generate 8-second cinematic video clips from images and scripts using Google Veo.",
+  "requestFramePermissions": []
+}
